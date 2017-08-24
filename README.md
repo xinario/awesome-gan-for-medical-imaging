@@ -19,6 +19,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 
 # Segmentation
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
+- Adversarial training and dilated convolutions for brain MRI segmentation [[arXiv]](https://arxiv.org/abs/1707.03195)
 
 # Detection
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
@@ -26,6 +27,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 
 # Medical Image Synthesis
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.05362)
+- Deep MR to CT Synthesis using Unpaired Data [[arXiv]] (https://arxiv.org/abs/1708.01155)
 
 
 
