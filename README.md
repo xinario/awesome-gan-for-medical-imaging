@@ -27,7 +27,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 
 # Medical Image Synthesis
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.05362)
-- Deep MR to CT Synthesis using Unpaired Data [[arXiv]] (https://arxiv.org/abs/1708.01155)
+- Deep MR to CT Synthesis using Unpaired Data [[arXiv]](https://arxiv.org/abs/1708.01155)
 
 
 
