@@ -20,15 +20,19 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 # Segmentation
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - Adversarial training and dilated convolutions for brain MRI segmentation [[arXiv]](https://arxiv.org/abs/1707.03195)
+- Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.09318)
 
 # Detection
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
 - Generative adversarial networks for brain lesion detection [[JMI]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1/Generative-adversarial-networks-for-brain-lesion-detection/10.1117/12.2254487.short)
+- Virtual PET Images from CT Data Using Deep Convolutional Networks: Initial Results [[arXiv]](https://arxiv.org/abs/1707.09585)
 
 # Medical Image Synthesis
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.05362)
 - Deep MR to CT Synthesis using Unpaired Data [[arXiv]](https://arxiv.org/abs/1708.01155)
 - Synthesizing Filamentary Structured Images with GANs [[arXiv]](https://arxiv.org/abs/1706.02185)
+- Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs) [[arXiv]](https://arxiv.org/abs/1707.09747)
+- Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.05392)
 
 
 
