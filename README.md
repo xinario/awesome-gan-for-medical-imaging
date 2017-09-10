@@ -10,6 +10,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Segmentation](#segmentation)
 - [Detection](#detection)
 - [Medical Image Synthesis](#medical-image-synthesis)
+- [Reconstruction](#reconstruction)
 
 # Low Dose CT Denoising
 - Generative Adversarial Networks for Noise Reduction in Low-Dose CT [[TMI]](http://ieeexplore.ieee.org/document/7934380/)
@@ -33,6 +34,10 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Synthesizing Filamentary Structured Images with GANs [[arXiv]](https://arxiv.org/abs/1706.02185)
 - Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs) [[arXiv]](https://arxiv.org/abs/1707.09747)
 - Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.05392)
+- Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
+
+# Reconstruction
+- Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
 
 
 
