@@ -22,6 +22,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - Adversarial training and dilated convolutions for brain MRI segmentation [[arXiv]](https://arxiv.org/abs/1707.03195)
 - Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.09318)
+- Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[arXiv]](https://arxiv.org/abs/1707.08037)
+- Deep Adversarial Networks for Biomedical Image Segmentation Utilizing Unannotated Images [[MICCAI17]](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47)
 
 # Detection
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
