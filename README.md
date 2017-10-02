@@ -28,6 +28,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 # Detection
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
 - Generative adversarial networks for brain lesion detection [[JMI]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1/Generative-adversarial-networks-for-brain-lesion-detection/10.1117/12.2254487.short)
+- Adversarial Networks for the Detection of Aggressive Prostate Cancer [[arXiv]](https://arxiv.org/abs/1702.08014)
 
 # Medical Image Synthesis
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.05362)
@@ -37,7 +38,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.05392)
 - Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
 - Virtual PET Images from CT Data Using Deep Convolutional Networks: Initial Results [[arXiv]](https://arxiv.org/abs/1707.09585)
-
+- Accelerated Magnetic Resonance Imaging by Adversarial Neural Network [[DLMIA MICCAI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_4)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
