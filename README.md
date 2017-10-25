@@ -11,6 +11,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Detection](#detection)
 - [Medical Image Synthesis](#medical-image-synthesis)
 - [Reconstruction](#reconstruction)
+- [Classification](#classification)
 
 # Low Dose CT Denoising
 - Generative Adversarial Networks for Noise Reduction in Low-Dose CT [[TMI]](http://ieeexplore.ieee.org/document/7934380/)
