@@ -35,7 +35,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 # Medical Image Synthesis
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.05362)
 - Deep MR to CT Synthesis using Unpaired Data [[arXiv]](https://arxiv.org/abs/1708.01155)
-- Synthesizing Filamentary Structured Images with GANs [[arXiv]](https://arxiv.org/abs/1706.02185)
+- Synthesizing Filamentary Structured Images with GANs [[arXiv]](https://arxiv.org/abs/1706.02185) [[code]](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/filaStructObjs/Synthesis/downloads.html)
 - Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs) [[arXiv]](https://arxiv.org/abs/1707.09747)
 - Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1707.05392)
 - Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
@@ -43,6 +43,9 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Towards Adversarial Retinal Image Synthesis [[arXiv]](https://arxiv.org/abs/1701.08974)
 - End-to-end Adversarial Retinal Image Synthesis [[TMI]](http://ieeexplore.ieee.org/abstract/document/8055572/) (published vision of the above preprint)
 - Adversarial Image Synthesis for Unpaired Multi-Modal Cardiac Data [[SASHIMI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_1)
+- Biomedical Data Augmentation Using Generative Adversarial Neural Networks [[ICANN 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68612-7_71)
+- Towards Virtual H&E Staining of Hyperspectral Lung Histology Images Using Conditional Generative Adversarial Networks [[ICCV2017 workshop]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w1/Bayramoglu_Towards_Virtual_HE_ICCV_2017_paper.pdf)
+- How to Fool Radiologists with Generative Adversarial Networks? A Visual Turing Test for Lung Cancer Diagnosis [[arXiv]](https://arxiv.org/abs/1710.09762)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
