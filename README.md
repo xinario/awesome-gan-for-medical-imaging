@@ -51,6 +51,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
 - Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI [[arXiv]](https://arxiv.org/abs/1706.00051)
 - Accelerated Magnetic Resonance Imaging by Adversarial Neural Network [[DLMIA MICCAI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_4)
+- Deep De-Aliasing for Fast Compressive Sensing MRI [[arXiv]](https://arxiv.org/abs/1705.07137)
 
 # Classification
 - Semi-supervised Assessment of Incomplete LV Coverage in Cardiac MRI Using Generative Adversarial Nets [[SASHIMI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_7)
