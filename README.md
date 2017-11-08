@@ -16,7 +16,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 # Low Dose CT Denoising
 - Generative Adversarial Networks for Noise Reduction in Low-Dose CT [[TMI]](http://ieeexplore.ieee.org/document/7934380/)
 - Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[arXiv]](https://arxiv.org/abs/1708.00961)
-- Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[arXiv]](https://arxiv.org/abs/1708.06453)[[code]](https://github.com/xinario/SAGAN)
+- Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[arXiv]](https://arxiv.org/abs/1708.06453) [[code]](https://github.com/xinario/SAGAN)
 
 
 # Segmentation
@@ -49,7 +49,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
-- Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI [[arXiv]](https://arxiv.org/abs/1706.00051)
+- Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI [[arXiv]](https://arxiv.org/abs/1706.00051) [[code]](https://github.com/gongenhao/GANCS)
 - Accelerated Magnetic Resonance Imaging by Adversarial Neural Network [[DLMIA MICCAI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_4)
 - Deep De-Aliasing for Fast Compressive Sensing MRI [[arXiv]](https://arxiv.org/abs/1705.07137)
 
