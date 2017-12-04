@@ -31,6 +31,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
 - Generative adversarial networks for brain lesion detection [[JMI]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1/Generative-adversarial-networks-for-brain-lesion-detection/10.1117/12.2254487.short)
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer [[arXiv]](https://arxiv.org/abs/1702.08014)
+- Visual Feature Attribution using Wasserstein GANs [[arXiv]](https://arxiv.org/abs/1711.08998)
 
 # Medical Image Synthesis
 - Medical Image Synthesis with Context-Aware Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.05362)
@@ -46,6 +47,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Biomedical Data Augmentation Using Generative Adversarial Neural Networks [[ICANN 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68612-7_71)
 - Towards Virtual H&E Staining of Hyperspectral Lung Histology Images Using Conditional Generative Adversarial Networks [[ICCV2017 workshop]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w1/Bayramoglu_Towards_Virtual_HE_ICCV_2017_paper.pdf)
 - How to Fool Radiologists with Generative Adversarial Networks? A Visual Turing Test for Lung Cancer Diagnosis [[arXiv]](https://arxiv.org/abs/1710.09762)
+- Unsupervised Reverse Domain Adaptation for Synthetic Medical Images via Adversarial Training [[arXiv]](https://arxiv.org/abs/1711.06606)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
