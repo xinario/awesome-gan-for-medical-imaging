@@ -27,6 +27,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Deep Adversarial Networks for Biomedical Image Segmentation Utilizing Unannotated Images [[MICCAI17]](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47)
 - SCAN: Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[arXiv]](https://arxiv.org/abs/1703.08770)
 - Adversarial Deep Structured Nets for Mass Segmentation from Mammograms [[arXiv]](https://arxiv.org/abs/1710.09288) [[code]](https://github.com/wentaozhu/adversarial-deep-structural-networks)
+- Adversarial Synthesis Learning Enables Segmentation Without Target Modality Ground Truth [[arXiv]](https://arxiv.org/abs/1712.07695)
 
 # Detection
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
@@ -49,6 +50,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Towards Virtual H&E Staining of Hyperspectral Lung Histology Images Using Conditional Generative Adversarial Networks [[ICCV2017 workshop]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w1/Bayramoglu_Towards_Virtual_HE_ICCV_2017_paper.pdf)
 - How to Fool Radiologists with Generative Adversarial Networks? A Visual Turing Test for Lung Cancer Diagnosis [[arXiv]](https://arxiv.org/abs/1710.09762)
 - Unsupervised Reverse Domain Adaptation for Synthetic Medical Images via Adversarial Training [[arXiv]](https://arxiv.org/abs/1711.06606)
+- Unsupervised Histopathology Image Synthesis [[arXiv]](https://arxiv.org/abs/1712.05021)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
@@ -59,5 +61,5 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 # Classification
 - Semi-supervised Assessment of Incomplete LV Coverage in Cardiac MRI Using Generative Adversarial Nets [[SASHIMI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_7)
 - Generalization of Deep Neural Networks for Chest Pathology Classification in X-Rays Using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1712.01636)
-- Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks [[arXiv]]()
+- Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1711.11317) [[code]](https://github.com/hbkunn/nu_gan)
 
