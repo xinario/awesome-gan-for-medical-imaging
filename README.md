@@ -62,4 +62,5 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Semi-supervised Assessment of Incomplete LV Coverage in Cardiac MRI Using Generative Adversarial Nets [[SASHIMI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_7)
 - Generalization of Deep Neural Networks for Chest Pathology Classification in X-Rays Using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1712.01636)
 - Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1711.11317) [[code]](https://github.com/hbkunn/nu_gan)
+- Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification [[arXiv]](https://arxiv.org/abs/1801.02385)
 
