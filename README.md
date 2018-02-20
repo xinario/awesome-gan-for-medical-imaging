@@ -16,7 +16,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 # Low Dose CT Denoising
 - Generative Adversarial Networks for Noise Reduction in Low-Dose CT [[TMI]](http://ieeexplore.ieee.org/document/7934380/)
 - Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[arXiv]](https://arxiv.org/abs/1708.00961)
-- Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[arXiv]](https://arxiv.org/abs/1708.06453) [[code]](https://github.com/xinario/SAGAN)
+- Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[JDI]](https://link.springer.com/article/10.1007/s10278-018-0056-0) [[code]](https://github.com/xinario/SAGAN)
 
 
 # Segmentation
