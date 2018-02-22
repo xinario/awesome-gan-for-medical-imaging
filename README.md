@@ -51,6 +51,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - How to Fool Radiologists with Generative Adversarial Networks? A Visual Turing Test for Lung Cancer Diagnosis [[arXiv]](https://arxiv.org/abs/1710.09762)
 - Unsupervised Reverse Domain Adaptation for Synthetic Medical Images via Adversarial Training [[arXiv]](https://arxiv.org/abs/1711.06606)
 - Unsupervised Histopathology Image Synthesis [[arXiv]](https://arxiv.org/abs/1712.05021)
+- Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1802.01221)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
