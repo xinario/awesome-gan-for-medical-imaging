@@ -53,6 +53,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Unsupervised Histopathology Image Synthesis [[arXiv]](https://arxiv.org/abs/1712.05021)
 - Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1802.01221)
 - Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1802.09655)
+- MRI Image-to-Image Translation for Cross-Modality Image Registration and Segmentation [[arXiv]](https://arxiv.org/abs/1801.06940)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
