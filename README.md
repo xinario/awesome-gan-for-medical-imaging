@@ -16,7 +16,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 # Low Dose CT Denoising
 - Generative Adversarial Networks for Noise Reduction in Low-Dose CT [[TMI]](http://ieeexplore.ieee.org/document/7934380/)
 - Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[arXiv]](https://arxiv.org/abs/1708.00961)
-- Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[JDI]](https://link.springer.com/article/10.1007/s10278-018-0056-0) [[code]](https://github.com/xinario/SAGAN)
+- Sharpness-aware Low dose CT denoising using conditional generative adversarial network [[arXiv]](https://arxiv.org/abs/1708.06453) [[JDI]](https://link.springer.com/article/10.1007/s10278-018-0056-0) [[code]](https://github.com/xinario/SAGAN)
 
 
 # Segmentation
@@ -28,6 +28,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - SCAN: Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays [[arXiv]](https://arxiv.org/abs/1703.08770)
 - Adversarial Deep Structured Nets for Mass Segmentation from Mammograms [[arXiv]](https://arxiv.org/abs/1710.09288) [[code]](https://github.com/wentaozhu/adversarial-deep-structural-networks)
 - Adversarial Synthesis Learning Enables Segmentation Without Target Modality Ground Truth [[arXiv]](https://arxiv.org/abs/1712.07695)
+- Adversarial neural networks for basal membrane segmentation of microinvasive cervix carcinoma in histopathology images [[ICMLC]](https://ieeexplore-ieee-org.cyber.usask.ca/abstract/document/8108952/)
 
 # Detection
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
@@ -54,16 +55,20 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1802.01221)
 - Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1802.09655)
 - MRI Image-to-Image Translation for Cross-Modality Image Registration and Segmentation [[arXiv]](https://arxiv.org/abs/1801.06940)
+- Cross-modality image synthesis from unpaired data using CycleGAN: Effects of gradient consistency loss and training data size [[arXiv]](https://arxiv.org/abs/1803.06629)
+- Cross-Modality Synthesis from CT to PET using FCN and GAN Networks for Improved Automated Lesion Detection [[arXiv]](https://arxiv.org/abs/1802.07846)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
+- Compressed Sensing MRI Reconstruction using a Generative Adversarial Network with a Cyclic Loss [[TMI]](https://ieeexplore-ieee-org.cyber.usask.ca/abstract/document/8327637/) (published version of the above preprint)
 - Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI [[arXiv]](https://arxiv.org/abs/1706.00051) [[code]](https://github.com/gongenhao/GANCS)
 - Accelerated Magnetic Resonance Imaging by Adversarial Neural Network [[DLMIA MICCAI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_4)
 - Deep De-Aliasing for Fast Compressive Sensing MRI [[arXiv]](https://arxiv.org/abs/1705.07137)
+- 3D conditional generative adversarial networks for high-quality PET image estimation at low dose [[NI]](https://www.sciencedirect.com/science/article/pii/S1053811918302507?via%3Dihub)
 
 # Classification
 - Semi-supervised Assessment of Incomplete LV Coverage in Cardiac MRI Using Generative Adversarial Nets [[SASHIMI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_7)
 - Generalization of Deep Neural Networks for Chest Pathology Classification in X-Rays Using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1712.01636)
 - Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1711.11317) [[code]](https://github.com/hbkunn/nu_gan)
 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification [[arXiv]](https://arxiv.org/abs/1801.02385)
-
+- GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification [[arXiv]](https://arxiv.org/abs/1803.01229)(extended version of above preprint)
