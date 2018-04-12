@@ -72,3 +72,4 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1711.11317) [[code]](https://github.com/hbkunn/nu_gan)
 - Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification [[arXiv]](https://arxiv.org/abs/1801.02385)
 - GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification [[arXiv]](https://arxiv.org/abs/1803.01229)(extended version of above preprint)
+- Unsupervised and semi-supervised learning with Categorical Generative Adversarial Networks assisted by Wasserstein distance for dermoscopy image Classification [[arXiv]](https://arxiv.org/abs/1804.03700)
