@@ -57,6 +57,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - MRI Image-to-Image Translation for Cross-Modality Image Registration and Segmentation [[arXiv]](https://arxiv.org/abs/1801.06940)
 - Cross-modality image synthesis from unpaired data using CycleGAN: Effects of gradient consistency loss and training data size [[arXiv]](https://arxiv.org/abs/1803.06629)
 - Cross-Modality Synthesis from CT to PET using FCN and GAN Networks for Improved Automated Lesion Detection [[arXiv]](https://arxiv.org/abs/1802.07846)
+- MelanoGANs: High Resolution Skin Lesion Synthesis with GANs [[arXiv]](https://arxiv.org/abs/1804.04338)
 
 # Reconstruction
 - Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.00753)
