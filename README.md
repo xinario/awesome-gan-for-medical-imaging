@@ -29,6 +29,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - Adversarial Deep Structured Nets for Mass Segmentation from Mammograms [[arXiv]](https://arxiv.org/abs/1710.09288) [[code]](https://github.com/wentaozhu/adversarial-deep-structural-networks)
 - Adversarial Synthesis Learning Enables Segmentation Without Target Modality Ground Truth [[arXiv]](https://arxiv.org/abs/1712.07695)
 - Adversarial neural networks for basal membrane segmentation of microinvasive cervix carcinoma in histopathology images [[ICMLC]](https://ieeexplore-ieee-org.cyber.usask.ca/abstract/document/8108952/)
+- Unsupervised domain adaptation in brain lesion segmentation with adversarial networks [[IPMI2017]](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_47)
+
 
 # Detection
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [[arXiv]](https://arxiv.org/abs/1703.05921)
