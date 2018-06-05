@@ -32,7 +32,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Adversarial neural networks for basal membrane segmentation of microinvasive cervix carcinoma in histopathology images](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+neural+networks+for+basal+membrane+segmentation+of+microinvasive+cervix+carcinoma+in+histopathology+images&btnG=) [[ICMLC]](https://ieeexplore-ieee-org.cyber.usask.ca/abstract/document/8108952/)
 - [Unsupervised domain adaptation in brain lesion segmentation with adversarial networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+domain+adaptation+in+brain+lesion+segmentation+with+adversarial+networks&btnG=) [[IPMI2017]](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_47)
 - [whole heart and great vessel segmentation with context aware generative adversarial network](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=whole+heart+and+great+vessel+segmentation+with+context+aware+generative+adversarial+network&btnG=) [[BM]](https://link.springer.com/chapter/10.1007/978-3-662-56537-7_89)
-
+- [Generative Adversarial Neural Networks for Pigmented and Non-Pigmented Skin Lesions Detection in Clinical Images](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generative+Adversarial+Neural+Networks+for+Pigmented+and+Non-Pigmented+Skin+Lesions+Detection+in+Clinical+Images&btnG=) [[CSCS2017]](https://ieeexplore.ieee.org/document/7968584/)
+- [Generative Adversarial Networks to Segment Skin Lesions](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generative+Adversarial+Networks+to+Segment+Skin+Lesions&btnG=) [[ISBI2018]](http://www.cs.sfu.ca/~hamarneh/ecopy/isbi2018b.pdf)
 
 # Detection
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Anomaly+Detection+with+Generative+Adversarial+Networks+to+Guide+Marker+Discovery&btnG=) [[arXiv]](https://arxiv.org/abs/1703.05921)
@@ -69,6 +70,9 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Histopathology Stain-Color Normalization Using Generative Neural Networks](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Histopathology+Stain-Color+Normalization+Using+Generative+Neural+Networks&btnG=) [[MIDL2018]](https://openreview.net/pdf?id=SkjdxkhoG)
 - [3D cGAN based cross-modality MR image synthesis for brain tumor segmentation](https://scholar.google.ca/scholar?q=3D+CGAN+BASED+CROSS-MODALITY+MR+IMAGE+SYNTHESIS+FOR+BRAIN+TUMOR+SEGMENTATION&hl=en&as_sdt=0&as_vis=1&oi=scholart) [[ISBI2018]](https://ieeexplore.ieee.org/abstract/document/8363653/)
 - [Deep CT to MR Synthesis using Paired and Unpaired Data](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Deep+CT+to+MR+Synthesis+using+Paired+and+Unpaired+Data&btnG=) [[arXiv]](https://arxiv.org/abs/1805.10790)
+- [GAN-based synthetic brain MR image generation](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=GAN-based+synthetic+brain+MR+image+generation&btnG=) [[ISBI2018]](https://ieeexplore.ieee.org/abstract/document/8363678/)
+- [StainGAN: Stain Style Transfer for Digital Histological Images](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=https%3A%2F%2Farxiv.org%2Fabs%2F1804.01601&btnG=) [[arXiv]](https://arxiv.org/abs/1804.01601)
+- [Histopathology Stain-Color Normalization Using Generative Neural Networks](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Histopathology+Stain-Color+Normalization+Using+Generative+Neural+Networks&btnG=) [[MIDL2018]](https://openreview.net/pdf?id=SkjdxkhoG)
 
 # Reconstruction
 - [Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Compressed+Sensing+MRI+Reconstruction+with+Cyclic+Loss+in+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1709.00753)
@@ -93,5 +97,6 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 ](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+training+with+cycle+consistency+for+unsupervised+super-resolution+in+endomicroscopy&btnG=) [[MIDL2018]](https://openreview.net/forum?id=BktMD6isM)
 - [Brain MRI super-resolution using 3D generative adversarial networks
 ](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Brain+MRI+super-resolution+using+3D+generative+adversarial+networks&btnG=) [[MIDL2018]](https://openreview.net/pdf?id=rJevSbniM)
-
+- [Generative Spatiotemporal Modeling Of Neutrophil Behavior](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generative+Spatiotemporal+Modeling+Of+Neutrophil+Behavior&btnG=) [[ISBI2018]](https://arxiv.org/abs/1804.00393)
+- [Deformable medical image registration using generative adversarial networks](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Deformable+medical+image+registration+using+generative+adversarial+networks&btnG=) [[ISBI2018]](https://ieeexplore.ieee.org/document/8363845/)
 
