@@ -72,7 +72,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Deep CT to MR Synthesis using Paired and Unpaired Data](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Deep+CT+to+MR+Synthesis+using+Paired+and+Unpaired+Data&btnG=) [[arXiv]](https://arxiv.org/abs/1805.10790)
 - [GAN-based synthetic brain MR image generation](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=GAN-based+synthetic+brain+MR+image+generation&btnG=) [[ISBI2018]](https://ieeexplore.ieee.org/abstract/document/8363678/)
 - [StainGAN: Stain Style Transfer for Digital Histological Images](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=https%3A%2F%2Farxiv.org%2Fabs%2F1804.01601&btnG=) [[arXiv]](https://arxiv.org/abs/1804.01601)
-
+- [Adversarial Stain Transfer for Histopathology Image Analysis](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+Stain+Transfer+for+Histopathology+Image+Analysis&btnG=) [[TMI]](https://ieeexplore.ieee.org/document/8170242/)
 
 # Reconstruction
 - [Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Compressed+Sensing+MRI+Reconstruction+with+Cyclic+Loss+in+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1709.00753)
