@@ -77,6 +77,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Adversarial Stain Transfer for Histopathology Image Analysis] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+Stain+Transfer+for+Histopathology+Image+Analysis&btnG=) [[TMI]](https://ieeexplore.ieee.org/document/8170242/)
 - [Chest x-ray generation and data augmentation for cardiovascular abnormality classification] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Chest+x-ray+generation+and+data+augmentation+for+cardiovascular+abnormality+classification&btnG=) [[SPIE MI2018]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/105741M/Chest-x-ray-generation-and-data-augmentation-for-cardiovascular-abnormality/10.1117/12.2293971.short?SSO=1)
 - [blood vessel geometry synthesis using generative adversarial networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=blood+vessel+geometry+synthesis+using+generative+adversarial+networks&btnG=) [[MIDL2018]](https://arxiv.org/abs/1804.04381)
+- [Synergistic Reconstruction and Synthesis via Generative Adversarial Networks for Accelerated Multi-Contrast MRI] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Synergistic+Reconstruction+and+Synthesis+via+Generative+Adversarial+Networks+for+Accelerated+Multi-Contrast+MRI&btnG=) [[arXiv]](https://arxiv.org/abs/1805.10704)
 
 
 # Reconstruction
