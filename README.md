@@ -45,6 +45,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 
 # Medical Image Synthesis
 - [Medical Image Synthesis with Context-Aware Generative Adversarial Networks] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Medical+Image+Synthesis+with+Context-Aware+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1612.05362)
+- [Medical Image Synthesis with Deep Convolutional Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Medical+Image+Synthesis+with+Deep+Convolutional+Adversarial+Networks&btnG=) [[TBME]](https://ieeexplore.ieee.org/abstract/document/8310638/) (published vision of the above preprint)
 - [Deep MR to CT Synthesis using Unpaired Data] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+MR+to+CT+Synthesis+using+Unpaired+Data&btnG=) [[arXiv]](https://arxiv.org/abs/1708.01155)
 - [Synthesizing Filamentary Structured Images with GANs] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Synthesizing+Filamentary+Structured+Images+with+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1706.02185) [[code]](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/filaStructObjs/Synthesis/downloads.html)
 - [Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Synthesis+of+Positron+Emission+Tomography+%28PET%29+Images+via+Multi-channel+Generative+Adversarial+Networks&btnG=) (GANs) [[arXiv]](https://arxiv.org/abs/1707.09747)
@@ -78,6 +79,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Chest x-ray generation and data augmentation for cardiovascular abnormality classification] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Chest+x-ray+generation+and+data+augmentation+for+cardiovascular+abnormality+classification&btnG=) [[SPIE MI2018]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/105741M/Chest-x-ray-generation-and-data-augmentation-for-cardiovascular-abnormality/10.1117/12.2293971.short?SSO=1)
 - [blood vessel geometry synthesis using generative adversarial networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=blood+vessel+geometry+synthesis+using+generative+adversarial+networks&btnG=) [[MIDL2018]](https://arxiv.org/abs/1804.04381)
 - [Synergistic Reconstruction and Synthesis via Generative Adversarial Networks for Accelerated Multi-Contrast MRI] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Synergistic+Reconstruction+and+Synthesis+via+Generative+Adversarial+Networks+for+Accelerated+Multi-Contrast+MRI&btnG=) [[arXiv]](https://arxiv.org/abs/1805.10704)
+- [Stain normalization of histopathology images using generative adversarial networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Stain+normalization+of+histopathology+images+using+generative+adversarial+networks&btnG=) [[ISBI2018]](https://ieeexplore.ieee.org/abstract/document/8363641/)
+- [MedGAN: Medical Image Translation using GANs] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=MedGAN%3A+Medical+Image+Translation+using+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1806.06397)
 
 
 # Reconstruction
