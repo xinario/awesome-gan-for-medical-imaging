@@ -18,6 +18,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Generative Adversarial Networks for Noise Reduction in Low-Dose CT]  [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=18303813038948630123&scipsc=&q=Generative+Adversarial+Networks+for+Noise+Reduction+in+Low-Dose+CT&btnG=) [[TMI]](http://ieeexplore.ieee.org/document/7934380/)
 - [Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Low+Dose+CT+Image+Denoising+Using+a+Generative+Adversarial+Network+with+Wasserstein+Distance+and+Perceptual+Loss&btnG=) [[arXiv]](https://arxiv.org/abs/1708.00961)
 - [Sharpness-aware Low dose CT denoising using conditional generative adversarial network] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Sharpness-aware+Low+dose+CT+denoising+using+conditional+generative+adversarial+network&btnG=) [[arXiv]](https://arxiv.org/abs/1708.06453) [[JDI]](https://link.springer.com/article/10.1007/s10278-018-0056-0) [[code]](https://github.com/xinario/SAGAN)
+- [Cycle Consistent Adversarial Denoising Network for Multiphase Coronary CT Angiography] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Cycle+Consistent+Adversarial+Denoising+Network+for+Multiphase+Coronary+CT+Angiography&btnG=) [[arXiv]](https://arxiv.org/abs/1806.09748)
 
 
 # Segmentation
