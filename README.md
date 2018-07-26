@@ -86,6 +86,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [MedGAN: Medical Image Translation using GANs] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=MedGAN%3A+Medical+Image+Translation+using+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1806.06397)
 - [Retinal Image Synthesis for CAD Development] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Retinal+Image+Synthesis+for+CAD+Development&btnG=) [[ICIAR]](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_70)
 - [High-Resolution Mammogram Synthesis using Progressive Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=High-Resolution+Mammogram+Synthesis+using+Progressive+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1807.03401)
+- [High-resolution medical image synthesis using progressively grown generative adversarial networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=High-resolution+medical+image+synthesis+using+progressively+grown+generative+adversarial+networks&btnG=) [[arXiv]](https://arxiv.org/abs/1805.03144)
 
 
 # Reconstruction
