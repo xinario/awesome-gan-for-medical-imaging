@@ -90,6 +90,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Retinal Image Synthesis for CAD Development] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Retinal+Image+Synthesis+for+CAD+Development&btnG=) [[ICIAR]](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_70)
 - [High-Resolution Mammogram Synthesis using Progressive Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=High-Resolution+Mammogram+Synthesis+using+Progressive+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1807.03401)
 - [High-resolution medical image synthesis using progressively grown generative adversarial networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=High-resolution+medical+image+synthesis+using+progressively+grown+generative+adversarial+networks&btnG=) [[arXiv]](https://arxiv.org/abs/1805.03144)
+- [Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through Adversarial Training] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Learning+Myelin+Content+in+Multiple+Sclerosis+from+Multimodal+MRI+through+Adversarial+Training&btnG=) [[MICCAI2018]](https://arxiv.org/abs/1804.08039)
 
 
 # Reconstruction
