@@ -44,7 +44,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Anomaly+Detection+with+Generative+Adversarial+Networks+to+Guide+Marker+Discovery&btnG=) [[arXiv]](https://arxiv.org/abs/1703.05921)
 - [Generative adversarial networks for brain lesion detection] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+adversarial+networks+for+brain+lesion+detection&btnG=) [[JMI]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1/Generative-adversarial-networks-for-brain-lesion-detection/10.1117/12.2254487.short)
 - [Adversarial Networks for the Detection of Aggressive Prostate Cancer] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=dversarial+Networks+for+the+Detection+of+Aggressive+Prostate+Cancer&btnG=) [[arXiv]](https://arxiv.org/abs/1702.08014)
-- [Visual Feature Attribution using Wasserstein GANs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Visual+Feature+Attribution+using+Wasserstein+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1711.08998)
+- [Visual Feature Attribution using Wasserstein GANs] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Visual+Feature+Attribution+using+Wasserstein+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1711.08998)
 - [Unsupervised Detection of Lesions in Brain MRI using constrained adversarial auto-encoders] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Detection+of+Lesions+in+Brain+MRI+using+constrained+adversarial+auto-encoders&btnG=) [[arXiv]](https://arxiv.org/abs/1806.04972)
 
 
