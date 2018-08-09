@@ -39,6 +39,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [A conditional adversarial network for semantic segmentation of brain tumor] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Conditional+Adversarial+Network+for+Semantic+Segmentation+of+Brain+Tumo&btnG=) [[arXiv]](https://arxiv.org/abs/1708.05227)
 - [Brain Tumor Segmentation Using an Adversarial Network] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Brain+Tumor+Segmentation+Using+an+Adversarial+Network&btnG=) [[MICCAI Brainlesion workshop]](https://link.springer.com/chapter/10.1007/978-3-319-75238-9_11)
 - [Joint Optic Disc and Cup Segmentation using Fully Convolutional and Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Joint+Optic+Disc+and+Cup+Segmentation+using+Fully+Convolutional+and+Adversarial+Networks&btnG=) [[OMIA2017]](https://link.springer.com/chapter/10.1007/978-3-319-67561-9_19)
+- [Splenomegaly Segmentation using Global Convolutional Kernels and Conditional Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Splenomegaly+Segmentation+using+Global+Convolutional+Kernels+and+Conditional+Generative+Adversarial+Networks&btnG=) [[SPIE MI]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/1057409/Splenomegaly-segmentation-using-global-convolutional-kernels-and-conditional-generative-adversarial/10.1117/12.2293406.short?SSO=1)
+
 
 # Detection
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Anomaly+Detection+with+Generative+Adversarial+Networks+to+Guide+Marker+Discovery&btnG=) [[arXiv]](https://arxiv.org/abs/1703.05921)
@@ -91,6 +93,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [High-Resolution Mammogram Synthesis using Progressive Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=High-Resolution+Mammogram+Synthesis+using+Progressive+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1807.03401)
 - [High-resolution medical image synthesis using progressively grown generative adversarial networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=High-resolution+medical+image+synthesis+using+progressively+grown+generative+adversarial+networks&btnG=) [[arXiv]](https://arxiv.org/abs/1805.03144)
 - [Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through Adversarial Training] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Learning+Myelin+Content+in+Multiple+Sclerosis+from+Multimodal+MRI+through+Adversarial+Training&btnG=) [[MICCAI2018]](https://arxiv.org/abs/1804.08039)
+- [Generation of structural MR images from amyloid PET: Application to MR-less quantification] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generation+of+structural+MR+images+from+amyloid+PET%3A+Application+to+MR-less+quantification.&btnG=) [[JNM]](https://europepmc.org/abstract/med/29217736)
+- [Task Driven Generative Modeling for Unsupervised Domain Adaptation Application to X-ray Image Segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Task+Driven+Generative+Modeling+for+Unsupervised+Domain+Adaptation+Application+to+X-ray+Image+Segmentation&btnG=) [[arXiv]](https://arxiv.org/abs/1806.07201)
 
 
 # Reconstruction
