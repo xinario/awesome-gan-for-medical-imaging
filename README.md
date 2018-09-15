@@ -20,7 +20,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Sharpness-aware Low dose CT denoising using conditional generative adversarial network] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Sharpness-aware+Low+dose+CT+denoising+using+conditional+generative+adversarial+network&btnG=) [[arXiv]](https://arxiv.org/abs/1708.06453) [[JDI]](https://link.springer.com/article/10.1007/s10278-018-0056-0) [[code]](https://github.com/xinario/SAGAN)
 - [Cycle Consistent Adversarial Denoising Network for Multiphase Coronary CT Angiography] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Cycle+Consistent+Adversarial+Denoising+Network+for+Multiphase+Coronary+CT+Angiography&btnG=) [[arXiv]](https://arxiv.org/abs/1806.09748)
 - [Structure-sensitive Multi-scale Deep Neural Network for Low-Dose CT Denoising] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Structure-sensitive+Multi-scale+Deep+Neural+Network+for+Low-Dose+CT+Denoising&btnG=) [[arXiv]](https://arxiv.org/abs/1805.00587)
-
+- [3-D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning From a 2-D Trained Network] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=3-D+Convolutional+Encoder-Decoder+Network+for+Low-Dose+CT+via+Transfer+Learning+From+a+2-D+Trained+Network&btnG=) [[arXiv]](https://arxiv.org/abs/1802.05656)
 
 # Segmentation
 - [SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SegAN%3A+Adversarial+Network+with+Multi-scale+L1+Loss+for+Medical+Image+Segmentation&btnG=) [[arXiv]](https://arxiv.org/abs/1706.01805)
