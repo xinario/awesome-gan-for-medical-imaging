@@ -6,6 +6,7 @@ For a complete list of GANs in general computer vision, please visit [really-awe
 To complement or correct it, please contact me at xiy525@mail.usask.ca or send a pull request.
 
 ## Overview
+- [Review](#review)
 - [Low Dose CT Denoising](#low-dose-ct-denoising)
 - [Segmentation](#segmentation)
 - [Detection](#detection)
@@ -13,6 +14,10 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Reconstruction](#reconstruction)
 - [Classification](#classification)
 - [Others](#others)
+
+# Review
+- [Generative Adversarial Network in Medical Imaging: A Review] (This is my own review covering 103 articles in commit e9c234e) [[scholar]]() [[arXiv]](https://arxiv.org/abs/1809.07294)
+- [GANs for Medical Image Analysis] [[scholar]]() [[arXiv]](https://arxiv.org/abs/1809.06222)
 
 # Low Dose CT Denoising
 - [Generative Adversarial Networks for Noise Reduction in Low-Dose CT]  [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=18303813038948630123&scipsc=&q=Generative+Adversarial+Networks+for+Noise+Reduction+in+Low-Dose+CT&btnG=) [[TMI]](http://ieeexplore.ieee.org/document/7934380/)
@@ -104,6 +109,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Learning implicit brain MRI manifolds with deep learning] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Learning+implicit+brain+MRI+manifolds+with+deep+learning&btnG=) [[SPIE MI2018]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/105741L/Learning-implicit-brain-MRI-manifolds-with-deep-learning/10.1117/12.2293515.short?SSO=1)
 - [Optimized generation of high-resolution phantom images using cGAN: Application to quantification of Ki67 breast cancer images] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Optimized+generation+of+high-resolution+phantom+images+using+cGAN%3A+Application+to+quantification+of+Ki67+breast+cancer+images&btnG=) [[PloS one]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196846)
 - [Generative Adversarial Networks for Image-to-Image Translation on Multi-Contrast MR Images-A Comparison of CycleGAN and UNIT] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generative+Adversarial+Networks+for+Image-to-Image+Translation+on+Multi-Contrast+MR+Images-A+Comparison+of+CycleGAN+and+UNIT&btnG=) [[arXiv]](https://arxiv.org/abs/1806.07777) [[code]](https://github.com/simontomaskarlsson/GAN-MRI)
+- [Generating Highly Realistic Images of Skin Lesions with GANs] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generating+Highly+Realistic+Images+of+Skin+Lesions+with+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1809.01410)
+- [Unpaired Brain MR-to-CT Synthesis using a Structure-Constrained CycleGAN] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Unpaired+Brain+MR-to-CT+Synthesis+using+a+Structure-Constrained+CycleGAN&btnG=) [[arXiv]](https://arxiv.org/abs/1809.04536)
 
 # Reconstruction
 - [Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Compressed+Sensing+MRI+Reconstruction+with+Cyclic+Loss+in+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1709.00753)
@@ -116,6 +123,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Synergistic Reconstruction and Synthesis via Generative Adversarial Networks for Accelerated Multi-Contrast MRI] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Synergistic+Reconstruction+and+Synthesis+via+Generative+Adversarial+Networks+for+Accelerated+Multi-Contrast+MRI&btnG=) [[arXiv]](https://arxiv.org/abs/1805.10704)
 - [CT Super-resolution GAN Constrained by the Identical, Residual, and Cycle Learning Ensemble(GAN-CIRCLE)] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT+Super-resolution+GAN+Constrained+by+the+Identical%2C+Residual%2C+and+Cycle+Learning+Ensemble+%28GAN-CIRCLE%29&btnG=) [[arXiv]](https://arxiv.org/abs/1808.04256)
 - [Denoising of 3-D Magnetic Resonance Images Using a Residual Encoder-Decoder Wasserstein Generative Adversarial Network] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Denoising+of+3-D+Magnetic+Resonance+Images+Using+a+Residual+Encoder-Decoder+Wasserstein+Generative+Adversarial+Network&btnG=) [[arXiv]](Denoising of 3-D Magnetic Resonance Images Using a Residual Encoder-Decoder Wasserstein Generative Adversarial Network)
+- [CT Super-resolution GAN Constrained by the Identical, Residual, and Cycle Learning Ensemble(GAN-CIRCLE)] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT+Super-resolution+GAN+Constrained+by+the+Identical%2C+Residual%2C+and+Cycle+Learning+Ensemble%28GAN-CIRCLE%29&btnG=) [[arXiv]](https://arxiv.org/abs/1808.04256)
+- [Denoising of 3-D Magnetic Resonance Images Using a Residual Encoder-Decoder Wasserstein Generative Adversarial Network] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Denoising+of+3-D+Magnetic+Resonance+Images+Using+a+Residual+Encoder-Decoder+Wasserstein+Generative+Adversarial+Network&btnG=) [[arXiv]](https://arxiv.org/abs/1808.03941)
 
 # Classification
 - [Semi-supervised Assessment of Incomplete LV Coverage in Cardiac MRI Using Generative Adversarial Nets] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Semi-supervised+Assessment+of+Incomplete+LV+Coverage+in+Cardiac+MRI+Using+Generative+Adversarial+Nets&btnG=) [[SASHIMI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_7)
