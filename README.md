@@ -112,6 +112,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Generating Highly Realistic Images of Skin Lesions with GANs] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generating+Highly+Realistic+Images+of+Skin+Lesions+with+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1809.01410)
 - [Unpaired Brain MR-to-CT Synthesis using a Structure-Constrained CycleGAN] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Unpaired+Brain+MR-to-CT+Synthesis+using+a+Structure-Constrained+CycleGAN&btnG=) [[arXiv]](https://arxiv.org/abs/1809.04536)
 - [Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Medical+Image+Synthesis+for+Data+Augmentation+and+Anonymization+using+Generative+Adversarial+Networks&btnG=) [[SASHIMI2018]](https://arxiv.org/abs/1807.10225)
+- [Generating Diffusion MRI scalar maps from T1 weighted images using generative adversarial networks] [[scholar]](https://scholar.google.se/scholar?hl=sv&as_sdt=0%2C5&q=Generating+Diffusion+MRI+scalar+maps+from+T1+weighted+images+using+generative+adversarial+networks&btnG=) [[arXiv]](https://arxiv.org/abs/1810.02683)
+
 
 # Reconstruction
 - [Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Compressed+Sensing+MRI+Reconstruction+with+Cyclic+Loss+in+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1709.00753)
@@ -129,7 +131,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Dagan%3A+Deep+de-aliasing+generative+adversarial+networks+for+fast+compressed+sensing+mri+reconstruction&btnG=) [[TMI]](https://ieeexplore.ieee.org/document/8233175/) [[code]](https://github.com/nebulaV/DAGAN)
 - [Adversarial and Perceptual Refinement for Compressed Sensing MRI Reconstruction] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+and+Perceptual+Refinement+for+Compressed+Sensing+MRI+Reconstruction&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_27)
 - [Cardiac MR Motion Artefact Correction from K-space Using Deep Learning-Based Reconstruction] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Cardiac+MR+Motion+Artefact+Correction+from+K-space+Using+Deep+Learning-Based+Reconstruction&btnG=) [[MLMIR 2018]](https://link.springer.com/chapter/10.1007/978-3-030-00129-2_3)
-
+- [Refacing: reconstructing anonymized facial features using GANs]   [[scholar]](https://scholar.google.se/scholar?hl=sv&as_sdt=0%2C5&q=refacing%3A+reconstructing+anonymized+facial+features+using+gans&btnG=)  [[arXiv]](https://arxiv.org/abs/1810.06455)
 
 # Classification
 - [Semi-supervised Assessment of Incomplete LV Coverage in Cardiac MRI Using Generative Adversarial Nets] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Semi-supervised+Assessment+of+Incomplete+LV+Coverage+in+Cardiac+MRI+Using+Generative+Adversarial+Nets&btnG=) [[SASHIMI 2017]](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_7)
