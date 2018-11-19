@@ -141,6 +141,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Tumor-Aware, Adversarial Domain Adaptation from CT to MRI for Lung Cancer Segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Tumor-Aware%2C+Adversarial+Domain+Adaptation+from+CT+to+MRI+for+Lung+Cancer+Segmentation&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_86)
 - [Unpaired Brain MR-to-CT Synthesis Using a Structure-Constrained CycleGAN] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Unpaired+Brain+MR-to-CT+Synthesis+using+a+Structure-Constrained+CycleGAN&btnG=) [[DLMIA2018]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_20)
 - [Unsupervised learning for cross-domain medical image synthesis using deformation invariant cycle consistency networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Learning+for+Cross-Domain+Medical+Image+Synthesis+Using+Deformation+Invariant+Cycle+Consistency+Networks&btnG=) [[SASHIMI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00536-8_6)
+- [ScarGAN: Chained Generative Adversarial Networks to Simulate Pathological Tissue on Cardiovascular MR Scans][[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=scargan&btnG=) [[DLMIA2018]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_39)
 
 
 
