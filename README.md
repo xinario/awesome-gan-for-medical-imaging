@@ -142,6 +142,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Unpaired Brain MR-to-CT Synthesis Using a Structure-Constrained CycleGAN] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Unpaired+Brain+MR-to-CT+Synthesis+using+a+Structure-Constrained+CycleGAN&btnG=) [[DLMIA2018]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_20)
 - [Unsupervised learning for cross-domain medical image synthesis using deformation invariant cycle consistency networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Learning+for+Cross-Domain+Medical+Image+Synthesis+Using+Deformation+Invariant+Cycle+Consistency+Networks&btnG=) [[SASHIMI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00536-8_6)
 - [ScarGAN: Chained Generative Adversarial Networks to Simulate Pathological Tissue on Cardiovascular MR Scans][[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=scargan&btnG=) [[DLMIA2018]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_39)
+- [Dose evaluation of fast synthetic-CT generation using a generative adversarial network for general pelvis MR-only radiotherapy] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Dose+evaluation+of+fast+synthetic-CT+generation+using+a+generative+adversarial+network+for+general+pelvis+MR-only+radiotherapy&btnG=) [[PMB]](http://iopscience.iop.org/article/10.1088/1361-6560/aada6d/meta)
 
 
 
