@@ -55,7 +55,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Few-shot+3D+Multi-modal+Medical+Image+Segmentation+using+Generative+Adversarial+Learning&btnG=) [[arXiv]](https://arxiv.org/abs/1810.12241)
 - [Multi-input and dataset-invariant adversarial learning (MDAL) for left and right-ventricular coverage estimation in cardiac MRI] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Multi-Input+and+Dataset-Invariant+Adversarial+Learning+%28MDAL%29+for+Left+and+Right-Ventricular+Coverage+Estimation+in+Cardiac+MRI&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_54)
 - [Tumor-Aware, Adversarial Domain Adaptation from CT to MRI for Lung Cancer Segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Tumor-Aware%2C+Adversarial+Domain+Adaptation+from+CT+to+MRI+for+Lung+Cancer+Segmentation&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_86)
-
+- [CT-Realistic Lung Nodule Simulation from 3D Conditional Generative Adversarial Networks for Robust Lung Segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT-Realistic+Lung+Nodule+Simulation+from+3D+Conditional+Generative+Adversarial+Networks+for+Robust+Lung+Segmentation&btnG=) [[MICCAI2018]](https://arxiv.org/abs/1806.04051)
 
 
 
@@ -143,7 +143,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Unsupervised learning for cross-domain medical image synthesis using deformation invariant cycle consistency networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Learning+for+Cross-Domain+Medical+Image+Synthesis+Using+Deformation+Invariant+Cycle+Consistency+Networks&btnG=) [[SASHIMI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00536-8_6)
 - [ScarGAN: Chained Generative Adversarial Networks to Simulate Pathological Tissue on Cardiovascular MR Scans][[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=scargan&btnG=) [[DLMIA2018]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_39)
 - [Dose evaluation of fast synthetic-CT generation using a generative adversarial network for general pelvis MR-only radiotherapy] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Dose+evaluation+of+fast+synthetic-CT+generation+using+a+generative+adversarial+network+for+general+pelvis+MR-only+radiotherapy&btnG=) [[PMB]](http://iopscience.iop.org/article/10.1088/1361-6560/aada6d/meta)
-
+- [ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=ProstateGAN%3A+Mitigating+Data+Bias+via+Prostate+Diffusion+Imaging+Synthesis+with+Generative+Adversarial+Networks&btnG=) [[NeurIPS 2018 ML4H]](https://arxiv.org/abs/1811.05817) 
 
 
 
@@ -175,6 +175,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Multi-channel Generative Adversarial Network for Parallel Magnetic Resonance Image Reconstruction in K-space] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Multi-channel+Generative+Adversarial+Network+for+Parallel+Magnetic+Resonance+Image+Reconstruction+in+K-space&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_21)
 - [Retrospective correction of Rigid and Non-Rigid MR motion artifacts using GANs] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Retrospective+correction+of+Rigid+and+Non-Rigid+MR+motion+artifacts+using+GANs&btnG=) [[arXiv]](https://arxiv.org/abs/1809.06276)
 - [Sparse-View CT Reconstruction Using Wasserstein GANs] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Sparse-View+CT+Reconstruction+Using+Wasserstein+GANs&btnG=) [[MLMIR2018]](https://link.springer.com/chapter/10.1007/978-3-030-00129-2_9)
+- [How Can We Make GAN Perform Better in Single Medical Image Super-Resolution? A Lesion Focused Multi-Scale Approach] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=How+Can+We+Make+GAN+Perform+Better+in+Single+Medical+Image+Super-Resolution%3F+A+Lesion+Focused+Multi-Scale+Approach&btnG=) [[ISBI2019]](https://arxiv.org/abs/1901.03419)
 
 
 
@@ -213,4 +214,4 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Adversarial Attacks Against Medical Deep Learning Systems] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+Attacks+Against+Medical+Deep+Learning+Systems&btnG=) [[arXiv]](https://arxiv.org/abs/1804.05296)
 - [Distribution Matching Losses Can Hallucinate Features in Medical Image Translation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Distribution+Matching+Losses+Can+Hallucinate+Features+in+Medical+Image+Translation&btnG=) [[MICCAI2018]](https://arxiv.org/abs/1805.08841)
 - [Generalizability vs. Robustness: Investigating Medical Imaging Networks Using Adversarial Examples] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=eneralizability+vs.+Robustness+Investigating+Medical+Imaging+Networks+Using+Adversarial+Examples&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_56)
-
+- [CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT-GAN%3A+Malicious+Tampering+of+3D+Medical+Imagery+using+Deep+Learning&btnG=) [[arXiv]](https://arxiv.org/abs/1901.03597)
