@@ -56,7 +56,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Multi-input and dataset-invariant adversarial learning (MDAL) for left and right-ventricular coverage estimation in cardiac MRI] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Multi-Input+and+Dataset-Invariant+Adversarial+Learning+%28MDAL%29+for+Left+and+Right-Ventricular+Coverage+Estimation+in+Cardiac+MRI&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_54)
 - [Tumor-Aware, Adversarial Domain Adaptation from CT to MRI for Lung Cancer Segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Tumor-Aware%2C+Adversarial+Domain+Adaptation+from+CT+to+MRI+for+Lung+Cancer+Segmentation&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_86)
 - [CT-Realistic Lung Nodule Simulation from 3D Conditional Generative Adversarial Networks for Robust Lung Segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT-Realistic+Lung+Nodule+Simulation+from+3D+Conditional+Generative+Adversarial+Networks+for+Robust+Lung+Segmentation&btnG=) [[MICCAI2018]](https://arxiv.org/abs/1806.04051)
-
+- [Spine-GAN: Semantic segmentation of multiple spinal structures] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Spine-GAN%3A+Semantic+segmentation+of+multiple+spinal+structures&btnG=) [[MIA]](https://www.medicalimageanalysisjournal.com/article/S1361-8415(18)30642-X/abstract)
 
 
 # Detection
