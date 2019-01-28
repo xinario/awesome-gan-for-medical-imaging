@@ -144,6 +144,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [ScarGAN: Chained Generative Adversarial Networks to Simulate Pathological Tissue on Cardiovascular MR Scans][[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=scargan&btnG=) [[DLMIA2018]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_39)
 - [Dose evaluation of fast synthetic-CT generation using a generative adversarial network for general pelvis MR-only radiotherapy] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Dose+evaluation+of+fast+synthetic-CT+generation+using+a+generative+adversarial+network+for+general+pelvis+MR-only+radiotherapy&btnG=) [[PMB]](http://iopscience.iop.org/article/10.1088/1361-6560/aada6d/meta)
 - [ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=ProstateGAN%3A+Mitigating+Data+Bias+via+Prostate+Diffusion+Imaging+Synthesis+with+Generative+Adversarial+Networks&btnG=) [[NeurIPS 2018 ML4H]](https://arxiv.org/abs/1811.05817) 
+- [Red blood cell image generation for data augmentation using Conditional Generative Adversarial Networks] [[scholar]](https://scholar.google.com/scholar?q=Red%20blood%20cell%20image%20generation%20for%20data%20augmentation%20using%20Conditional%20Generative%20Adversarial%20Networks%20Bailo%202019) [[arXiv]](https://arxiv.org/abs/1901.06219)
 
 
 
