@@ -17,7 +17,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Others](#others)
 
 # Review
-- [Generative Adversarial Network in Medical Imaging: A Review] (This is my own review covering 103 articles in commit e9c234e) [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generative+adversarial+network+in+medical+imaging%3A+A+review&btnG=) [[arXiv]](https://arxiv.org/abs/1809.07294)
+- [Generative Adversarial Network in Medical Imaging: A Review] (Updated V2. This is my own review covering 103 articles in commit e9c234e) [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generative+adversarial+network+in+medical+imaging%3A+A+review&btnG=) [[arXiv]](https://arxiv.org/abs/1809.07294)
 - [GANs for Medical Image Analysis] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=GANs+for+Medical+Image+Analysis&btnG=) [[arXiv]](https://arxiv.org/abs/1809.06222)
 - [Generative adversarial networks and adversarial methods in biomedical image analysis] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Generative+adversarial+networks+and+adversarial+methods+in+biomedical+image+analysis&btnG=) [[arXiv]](https://arxiv.org/abs/1810.10352)
 
