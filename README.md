@@ -145,6 +145,14 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [CT synthesis from MR images for orthopedic applications in the lower arm using a conditional generative adversarial network] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT+synthesis+from+MR+images+for+orthopedic+applications+in+the+lower+arm+using+a+conditional+generative+adversarial+network&btnG=) [[arXiv]](https://arxiv.org/abs/1901.08449)
 - [Learning Bone Suppression from Dual Energy Chest X-rays using Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Learning+Bone+Suppression+from+Dual+Energy+Chest+X-rays+using+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1811.02628)
 - [Simulating Patho-realistic Ultrasound Images using Deep Generative Networks with Adversarial Learning] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Simulating+Patho-realistic+Ultrasound+Images+using+Deep+Generative+Networks+with+Adversarial+Learning&btnG=) [[ISBI2018]](https://ieeexplore.ieee.org/abstract/document/8363780)
+- [Stain-transforming cycle-consistent generative adversarial networks for improved segmentation of renal histopathology] [[MIDL2019]](https://openreview.net/forum?id=BkxJkgSlx4)
+- [Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization] [[MIDL2019]](https://openreview.net/forum?id=H1gMYCQxg4)
+- [Image Synthesis with a Convolutional Capsule Generative Adversarial Network] [[MIDL2019]](https://openreview.net/forum?id=rJen0zC1lE)
+- [CT-realistic data augmentation using generative adversarial network for robust lymph node segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT-realistic+data+augmentation+using+generative+adversarial+network+for+robust+lymph+node+segmentation&btnG=) [[SPIE MI2019]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/109503V/CT-realistic-data-augmentation-using-generative-adversarial-network-for-robust/10.1117/12.2512004.short)
+- [Unsupervisedly Training GANs for Segmenting Digital Pathology with Automatically Generated Annotations] [[MIDL2019]](https://openreview.net/forum?id=B1gT9_B81E)
+- [DavinciGAN: Unpaired Surgical Instrument Translation for Data Augmentation] [[MIDL2019]](https://openreview.net/forum?id=rJxMvRFxeN)
+- [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation] [[MIDL2019]](https://openreview.net/forum?id=B1lpb10Ry4)
+
 
 # Reconstruction
 - [Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Compressed+Sensing+MRI+Reconstruction+with+Cyclic+Loss+in+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1709.00753)
@@ -186,6 +194,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Deep echocardiography: data-efficient supervised and semi-supervised deep learning towards automated diagnosis of cardiac disease] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Article+%7C+OPEN+%7C+Published%3A+18+October+2018++Deep+echocardiography%3A+data-efficient+supervised+and+semi-supervised+deep+learning+towards+automated+diagnosis+of+cardiac+disease&btnG=) [[NDM]](https://www.nature.com/articles/s41746-018-0065-x)
 - [General-to-Detailed GAN for Infrequent Class Medical Images] [[scholar]](General-to-Detailed GAN for Infrequent Class Medical Images) [[NeurIPS 2018 ML4H]](https://arxiv.org/abs/1812.01690)
 - [Towards generative adversarial networks as a new paradigm for radiology education] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Towards+generative+adversarial+networks+as+a+new+paradigm+for+radiology+education&btnG=) [[NeurIPS 2018 ML4H]](https://arxiv.org/abs/1812.01547)
+- [Abnormal Chest X-ray Identification With Generative Adversarial One-Class Classifier] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+Chest+X-ray+Identification+With+Generative+Adversarial+One-Class+Classifier&btnG=) [[ISBI2019]](https://arxiv.org/abs/1903.02040)
 
 
 # Registration
