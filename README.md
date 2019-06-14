@@ -152,6 +152,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Unsupervisedly Training GANs for Segmenting Digital Pathology with Automatically Generated Annotations] [[MIDL2019]](https://openreview.net/forum?id=B1gT9_B81E)
 - [DavinciGAN: Unpaired Surgical Instrument Translation for Data Augmentation] [[MIDL2019]](https://openreview.net/forum?id=rJxMvRFxeN)
 - [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation] [[MIDL2019]](https://openreview.net/forum?id=B1lpb10Ry4)
+- [Modelling the Progression of Alzheimer’s Disease in MRI Using Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Modelling+the+Progression+of+Alzheimer’s+Disease+in+MRI+Using+Generative+Adversarial+Networks&btnG=) [[SPIE MI2018]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/105741K/Modelling-the-progression-of-Alzheimers-disease-in-MRI-using-generative/10.1117/12.2293256.short?SSO=1)
 
 
 # Reconstruction
@@ -179,6 +180,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Retinal Vasculature Segmentation Using Local Saliency Maps and Generative Adversarial Networks For Image Super Resolution] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Retinal+Vasculature+Segmentation+Using+Local+Saliency+Maps+and+Generative+Adversarial+Networks+For+Image+Super+Resolution&btnG=) [[arXiv]](https://arxiv.org/abs/1710.04783)
 - [Adversarial training with cycle consistency for unsupervised super-resolution in endomicroscopy] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+training+with+cycle+consistency+for+unsupervised+super-resolution+in+endomicroscopy&btnG=) [[MIDL2018]](https://openreview.net/forum?id=BktMD6isM)
 - [How Can We Make GAN Perform Better in Single Medical Image Super-Resolution? A Lesion Focused Multi-Scale Approach] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=How+Can+We+Make+GAN+Perform+Better+in+Single+Medical+Image+Super-Resolution%3F+A+Lesion+Focused+Multi-Scale+Approach&btnG=) [[arXiv]](https://arxiv.org/abs/1901.03419)
+- [X2CT-GAN: Reconstructing CT from Biplanar X-Rays with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=X2CT-GAN+Reconstructing+CT+from+Biplanar+X-Rays+with+Generative+Adversarial+Networks&btnG=) [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ying_X2CT-GAN_Reconstructing_CT_From_Biplanar_X-Rays_With_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
 
 
 # Classification
