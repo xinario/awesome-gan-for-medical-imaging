@@ -152,6 +152,7 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation] [[MIDL2019]](https://openreview.net/forum?id=B1lpb10Ry4)
 - [Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Cross-Modality+Domain+Adaptation+of+ConvNets+for+Biomedical+Image+Segmentations+with+Adversarial+Loss&btnG=) [[arXiv]](https://arxiv.org/abs/1804.10916)
 - [CT-Realistic Lung Nodule Simulation from 3D Conditional Generative Adversarial Networks for Robust Lung Segmentation] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=CT-Realistic+Lung+Nodule+Simulation+from+3D+Conditional+Generative+Adversarial+Networks+for+Robust+Lung+Segmentation&btnG=) [[MICCAI2018]](https://arxiv.org/abs/1806.04051)
+- [Mask2Lesion: Mask-Constrained Adversarial Skin Lesion Image Synthesis] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Mask2Lesion%3A+Mask-Constrained+Adversarial+Skin+Lesion+Image+Synthesis&btnG=) [[MICCAI SASHIMI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32778-1_8) [[arXiv]](https://arxiv.org/abs/1906.05845)
 
 
 # Reconstruction
